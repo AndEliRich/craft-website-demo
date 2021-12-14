@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>My Digital Garden!</title>
+        <title>Andrea's Digital Corner</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
